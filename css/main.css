@@ -119,7 +119,7 @@ h5, h6          { font-weight: bolder }
         width: 250px;
         min-height: 100%;
         padding: 0 0 0 50px;
-        background: #ffffff;
+        background: #1c1c1c;
         float: left;
         overflow: hidden;
         z-index: 9999;
@@ -133,13 +133,13 @@ h5, h6          { font-weight: bolder }
         text-decoration: none;
         text-transform: uppercase;
         font-family: 'raleway-regular';
-        color: #454545;
+        color: #ffffff;
         font-size: 1.5em;
     }
 
     header .logo a:hover {
         text-decoration: none;
-        color: #969595;
+        color: #ffffff;
         font-size: 1.5em;
     }
 
@@ -156,7 +156,7 @@ h5, h6          { font-weight: bolder }
     }
 
     header nav ul li a{
-        color: #454545;
+        color: #ffffff;
         font-family: "raleway-regular", arial;
         font-size: 14px;
         text-decoration: none;
@@ -165,12 +165,12 @@ h5, h6          { font-weight: bolder }
 
     header nav ul li a:hover,
     header nav ul li a.selected{
-        color: #969595;
+        color: #0066ff;
     }
 
     header .footer{
         position: absolute;
-        bottom: 50px;
+        bottom: 30px;
     }
 
     header ul.social{
@@ -243,7 +243,7 @@ h5, h6          { font-weight: bolder }
     }
 
     header .rights p{
-        color: #454545;
+        color: #a3a3a3;
         font-family: "raleway-regular", arial;
         font-size: 11px;
         letter-spacing: 1px;
@@ -352,7 +352,7 @@ h5, h6          { font-weight: bolder }
     height: 100%;
     top: 0;
     left: 0;
-    background: #ffffff;
+    background: #0066ff;
     opacity: 0;
 }
 
@@ -375,12 +375,12 @@ h5, h6          { font-weight: bolder }
     max-width: 90%;
     padding: 20px 0;
     z-index: 77;
-    color: #454545;
+    color: #ffffff;
     font-family: "raleway-regular", arial;
     font-size: 16px;
     letter-spacing: .5px;
-    border-bottom: 1px solid #bfbbbb;
-    border-top: 1px solid #bfbbbb;
+    border-bottom: 1px solid #ffffff;
+    border-top: 1px solid #ffffff;
 }
 
 .main .gallery-container{
@@ -494,7 +494,7 @@ h5, h6          { font-weight: bolder }
 
 .top .title{
     display: block;
-    width: 100%;color: #4b4848;
+    width: 100%;color: #0066ff;
     font-family: "raleway-bold", arial;
     font-size: 26px;
     font-weight: bold;
