@@ -341,7 +341,8 @@ h5, h6          { font-weight: bolder }
 }
 
 .main .work .media{
-    width: 100%;
+    width: 526px;
+    height: 460px;
     vertical-align: middle;
 }
 
@@ -379,8 +380,8 @@ h5, h6          { font-weight: bolder }
     font-family: "raleway-regular", arial;
     font-size: 16px;
     letter-spacing: .5px;
-    border-bottom: 1px solid #ffffff;
-    border-top: 1px solid #ffffff;
+    border-bottom: 0px solid #ffffff;
+    border-top: 0px solid #ffffff;
 }
 
 .main .gallery-container{
